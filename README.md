@@ -1,6 +1,6 @@
 # deploying-to-netlify
 
-## STEPS TO DEPLOY TO NETIFLY USING NUXT
+#### STEPS TO DEPLOY TO NETIFLY USING NUXT
 
 
 ## Local Project Setup
