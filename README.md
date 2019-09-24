@@ -32,3 +32,13 @@ git add .
 git commit -m "Initial commit"
 
 ```
+
+## Pushing app to Github
+``` bash
+Go to Github and create an empty repo and get the clone url
+
+# run the following to push to remote repo
+git remote add origin git@github.com:paulberesuita/project-name.git
+git push -u origin master
+
+```
