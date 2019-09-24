@@ -42,3 +42,12 @@ git remote add origin git@github.com:paulberesuita/project-name.git
 git push -u origin master
 
 ```
+
+## Pushing to Netifly
+``` bash
+# Generate the dist folder
+npm run generate
+# Got to Netifly site and connect to the repo created
+# Make sure in Build Command is setup to "npm run generate" and Public Directory to "dist"
+# Click Deploy Site
+```
