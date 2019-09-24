@@ -19,9 +19,16 @@ $ npm install
 
 ```
 
-## Push app to Github
+## Setup app for Github
 
 ``` bash
+# initializes git
+git init
 
+# stages all files to be committed 
+git add .
+
+# commit (locally)
+git commit -m "Initial commit"
 
 ```
